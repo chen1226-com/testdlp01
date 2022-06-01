@@ -3,7 +3,7 @@ public class test {
         static float x = 205F;
 
         static float y = 572F;
-
+/** 代码检测**/
         private static boolean sound = true;
 
         public BattleAppearing() {
