@@ -8,7 +8,7 @@ public class test {
 
         public BattleAppearing() {
         }
-    /** 测试3456案件傻傻的啊手机打开实际库存**/
+    /** 测试3456案件傻傻阿三大啊的的啊手机打开实际库存**/
         public static void draw(Graphics g) {
             if (sound) {
                 sound = false;
