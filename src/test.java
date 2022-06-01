@@ -8,7 +8,7 @@ public class test {
 
         public BattleAppearing() {
         }
-    /** 测试3456**/
+    /** 测试3456案件傻傻的**/
         public static void draw(Graphics g) {
             if (sound) {
                 sound = false;
