@@ -3,7 +3,7 @@ public class test {
         static float x = 205F;
 
         static float y = 572F;
-/** 代码检啊是斯顿撒旦撒大阿萨大大大啊阿三大苏打参加中考测**/
+/** 代码检啊是斯顿撒旦撒阿三大苏打参加中考测**/
         private static boolean sound = true;
 
         public BattleAppearing() {
